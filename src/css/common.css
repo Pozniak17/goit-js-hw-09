@@ -16,3 +16,14 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  display: flex;
+  color: blueviolet;
+}
+
+.field {
+  margin-right: 15px;
+  font-size: 24px;
+  font-weight: 700;
+}
